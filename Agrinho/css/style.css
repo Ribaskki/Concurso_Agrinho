@@ -39,7 +39,7 @@ body{
 }
 
 .menu a:hover{
-    color: #228B22;
+    color: #228b22d7;
     background-color: #72e201dc;
 }
 
@@ -60,7 +60,7 @@ body{
     padding-top: 5px;
     margin-left: 200px;
     margin-right: 200px;
-    background-color:#228B22;
+    background-color:#228b22d7;
 }
 
 .conteudo p{
